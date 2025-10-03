@@ -1,0 +1,6 @@
+*.csv
+**/venv/
+**/.venv/
+**/env/
+**/.env/
+.DS_Store
